@@ -40,3 +40,4 @@ npm install
 
 # Start the development server
 npm run dev
+# secure-notes-app

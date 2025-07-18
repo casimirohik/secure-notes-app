@@ -1,8 +1,8 @@
-# 🛡️ SecureNoteX
+# 🛡️ SecureNoteApp
 
 > Your private notes. Encrypted, always.
 
-SecureNoteX is a sleek and secure note-taking web app that encrypts your notes using AES encryption. Designed with modern UI/UX and built with React, TailwindCSS, and CryptoJS, it offers a simple but effective way to store private data securely — all in the browser.
+SecureNoteAppp is a sleek and secure note-taking web app that encrypts your notes using AES encryption. Designed with modern UI/UX and built with React, TailwindCSS, and CryptoJS, it offers a simple but effective way to store private data securely — all in the browser.
 
 
 Password: "password"
@@ -32,7 +32,7 @@ Password: "password"
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/securenotex.git
+git clone https://github.com/yourusername/secure-notes-app.git
 cd securenotex
 
 # Install dependencies

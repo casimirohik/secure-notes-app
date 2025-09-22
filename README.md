@@ -41,3 +41,18 @@ npm install
 # Start the development server
 npm run dev
 # secure-notes-app
+```
+---
+ ## 📸 Screenshots 
+
+ ##Login Page
+<img width="1728" height="990" alt="Screenshot 2025-09-22 at 15 30 46" src="https://github.com/user-attachments/assets/35df64f3-1b2f-473a-96c4-4f7b1321f7fa" />
+
+##Home Page
+<img width="1728" height="988" alt="Screenshot 2025-09-22 at 15 31 15" src="https://github.com/user-attachments/assets/0e49a258-3f7a-4e06-9b57-298a96f14d03" />
+
+##Decryption page 
+<img width="1728" height="992" alt="Screenshot 2025-09-22 at 15 31 49" src="https://github.com/user-attachments/assets/de079cf4-2566-4abb-b703-7320ccacfb5f" />
+
+##Light mode Home Page
+<img width="1728" height="990" alt="Screenshot 2025-09-22 at 15 31 27" src="https://github.com/user-attachments/assets/39659426-4b26-4752-a720-c931f0cd825b" />

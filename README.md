@@ -16,7 +16,7 @@ Password: "password"
 - 💾 **Persistent Storage** – Notes are stored in `localStorage`, so they persist across sessions.
 - 🧹 **One-click Clear All** – Wipe all your notes in one click.
 - 📱 **Responsive Design** – Works smoothly on all screen sizes.
-- NOTE: there are also somethings here which display pracctices not to do (one of them is hardcoded passwords now try find the rest!
+- NOTE: there are also somethings here which display practices not to do (Hint: one of them is hardcoded passwords) now try find the rest!
 
 ---
 
